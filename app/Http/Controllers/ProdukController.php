@@ -16,11 +16,7 @@ class ProdukController extends Controller
 
     public function p_create()
     {
-    public function create()
-    {
-        $kategoris = Kategori::all();
-        return view('produk.create', compact('kategoris'));
-    }
+    
     }
 
     /**
