@@ -125,32 +125,17 @@
           </div>
           <div class="col-lg-6">
             <p class="text-black-50">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
-              enim pariatur similique debitis vel nisi qui reprehenderit totam?
-              Quod maiores.
+            Selamat datang di Tora Property, perusahaan yang bergerak di bidang properti yang berkomitmen untuk memberikan solusi terbaik bagi kebutuhan hunian dan investasi Anda. Dengan pengalaman bertahun-tahun di industri ini, kami memahami bahwa properti bukan hanya sekadar tempat tinggal, tetapi juga merupakan investasi masa depan yang berharga.
             </p>
             <p class="text-black-50">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-              saepe, explicabo nihil. Est, autem error cumque ipsum repellendus
-              veniam sed blanditiis unde ullam maxime veritatis perferendis
-              cupiditate, at non esse!
-            </p>
-            <p class="text-black-50">
-              Enim, nisi labore exercitationem facere cupiditate nobis quod
-              autem veritatis quis minima expedita. Cumque odio illo iusto
-              reiciendis, labore impedit omnis, nihil aut atque, facilis
-              necessitatibus asperiores porro qui nam.
+            Kami menawarkan berbagai jenis properti, mulai dari rumah tinggal, apartemen, hingga lahan komersial. Tim profesional kami siap membantu Anda menemukan properti yang sesuai dengan kebutuhan dan anggaran Anda. Kami percaya bahwa setiap klien memiliki keunikan, dan kami berusaha memberikan layanan yang dipersonalisasi untuk memenuhi harapan Anda.
             </p>
           </div>
           <div class="col-lg-6">
             <p class="text-black-50">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-              saepe, explicabo nihil. Est, autem error cumque ipsum repellendus
-              veniam sed blanditiis unde ullam maxime veritatis perferendis
-              cupiditate, at non esse!
-            </p>
-            <p class="text-black-50">
-              epik
+            Visi kami adalah menjadi pemimpin di pasar properti dengan menyediakan layanan berkualitas tinggi, transparan, dan inovatif. Misi kami adalah membantu Anda mewujudkan impian memiliki properti yang ideal dengan proses yang mudah dan menyenangkan.
+
+Bergabunglah dengan kami dan temukan properti impian Anda hari ini!
             </p>
           </div>
         </div>
